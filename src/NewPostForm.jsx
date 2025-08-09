@@ -8,7 +8,7 @@ const NewPostForm = ({ onNewPost }) => {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://localhost:3000/posts', {
+      const response = await fetch('https://blog-app-backend-georgeann.onrender.com/posts', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
