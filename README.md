@@ -1,12 +1,26 @@
-# React + Vite
+# Full-Stack Blog Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Overview
+This project is a simple full-stack blog application that allows users to create and view blog posts. It serves as a practical demonstration of building a complete web application from scratch, covering both front-end and back-end development, as well as deployment.
 
-Currently, two official plugins are available:
+### Features
+-   **Create Posts:** Users can add new blog posts with a title and content.
+-   **View Posts:** All submitted posts are displayed in a list.
+-   **Responsive Design:** The front-end is designed to be accessible on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technologies Used
+**Frontend:**
+-   **React:** For building the user interface.
+-   **Netlify:** For deploying the front-end application.
 
-## Expanding the ESLint configuration
+**Backend:**
+-   **Node.js & Express:** For the RESTful API server.
+-   **SQLite:** For the database to store blog posts.
+-   **Render:** For deploying the back-end service.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Live Demo
+[View the live application here](https://georgeann-blog.netlify.app/)
+
+### 
+Screenshot
+![Screenshot of the blog application](https://github.com/user-attachments/assets/352c03a6-051d-4299-b786-f0e569c26e44)
