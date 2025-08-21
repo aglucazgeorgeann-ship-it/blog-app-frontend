@@ -19,7 +19,7 @@ This project is a simple full-stack blog application that allows users to create
 -   **Render:** For deploying the back-end service.
 
 ### Live Demo
-[View the live application here](https://georgeann-blog.netlify.app/)
+[View the live application here](https://blog-app432.netlify.app/)
 
 ### 
 Screenshot
